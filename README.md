@@ -60,6 +60,5 @@ Users can explore my work and **download my APK** from the website.
 ### 📫 Connect With Me
 - 📧 Email: **shaikhruhan555@gmail.com**    
 - 🌐 Portfolio Website: **https://ruhanshaikh123.github.io/RuhanShaikh.github.io/**
-- Application : **https://github.com/RuhanShaikh123/RuhanShaikh.github.io/releases/dow
- nload/V1.0/app-release.apk **
+- Application : **https://github.com/RuhanShaikh123/RuhanShaikh.github.io/releases/download/V1.0/app-release.apk **
 
