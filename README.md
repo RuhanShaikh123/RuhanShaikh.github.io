@@ -1,64 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ruhan Shaikh</h1>
-<h3 align="center">Android Developer | Game Developer | Web Developer</h3>
+# Hi 👋, I'm Ruhan Shaikh
+
+## Flutter & Firebase Developer
+
+I'm a Flutter developer passionate about building scalable mobile applications using Flutter, Firebase, Riverpod, and Android technologies.
 
 ---
 
-### 🚀 About Me
-- 🔥 Passionate Android Developer building real-world apps  
-- 🎮 Creator of **Game Arena – Play & Earn** (Android App)  
-- 🌐 Also skilled in **Web Development** – built and deployed live websites  
-- 📱 Experience with Java, Firebase, AdMob, APIs, Authentication  
-- 💼 Seeking opportunities in **Android Development / Mobile Applications / Web Development**  
-- 🌍 My live website is online, and users can download my APK directly from there  
+## 🚀 Currently Working On
+
+- 🛡️ Parent Controller System
+- 📱 Child Controller System
+- 🎤 Live Audio Streaming
+- 📍 Real-Time Location Tracking
+- 📷 Live Camera Integration
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
-#### **📱 Mobile Development**
-- Java  
-- Android Studio  
-- Firebase (Auth, Realtime DB, Firestore)  
-- AdMob & Rewarded Ads  
-- XML UI Design  
+### Mobile Development
+- Flutter
+- Dart
+- Android (Java)
 
-#### **🌐 Web Development**
-- HTML, CSS, JavaScript  
-- Responsive UI Design  
-- Hosting on GitHub Pages  
-- Web Deployment  
+### Backend
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- REST APIs
+- Node.js
 
-#### **🛠 Tools**
-- Git & GitHub  
-- VS Code  
-- Figma (UI/UX)  
-- Chrome DevTools  
+### State Management
+- Riverpod
+- GetX
+- Provider
 
----
-
-### 🌐 My Live Website
-👉 **Visit my Live Website:** *(https://ruhanshaikh123.github.io/RuhanShaikh.github.io/)*  
-Users can explore my work and **download my APK** from the website.
+### Tools
+- Android Studio
+- VS Code
+- Git
+- GitHub
 
 ---
 
-### 📂 Featured Projects
+## 📌 Featured Projects
 
-#### 🎮 **Game Arena – Play & Earn (Android App)**
-- Daily Check-in Rewards  
-- Scratch Cards (3/day)  
-- Watch Ad Rewards  
-- Firebase Login & UID-based tracking  
-- Stylish UI & smooth animations  
-- ✔ APK available on my website  
-- ✔ Code available on GitHub  
+### 🛡️ Parent Controller
+
+Flutter application for secure parental monitoring with:
+
+- Live Location
+- Device Pairing
+- Permission Monitoring
+- Live Microphone
+- Riverpod Architecture
+
+🔗 https://github.com/RuhanShaikh123/parent-controller
 
 ---
 
+### 📱 Child Controller
+
+Flutter application responsible for:
+
+- Accessibility Service
+- Foreground Services
+- Permission Management
+- WebSocket Communication
+- Firebase Synchronization
+
+🔗 https://github.com/RuhanShaikh123/child-controller
+
 ---
 
-### 📫 Connect With Me
-- 📧 Email: **shaikhruhan555@gmail.com**    
-- 🌐 Portfolio Website: **https://ruhanshaikh123.github.io/RuhanShaikh.github.io/**
-- Application : **https://github.com/RuhanShaikh123/RuhanShaikh.github.io/releases/download/V1.0/app-release.apk **
+### 👨‍⚕️ CareConnect
 
+Role-based caretaker platform built using Flutter & Firebase.
+
+🔗 https://github.com/RuhanShaikh123/careconnect
+
+---
+
+## 📫 Contact
+
+📧 shaikhruhan555@gmail.com
+
+🌍 Gujarat, India
